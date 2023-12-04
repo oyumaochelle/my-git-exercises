@@ -1,0 +1,9 @@
+.poem {
+        font-family: serif;
+        font-size: 18px;
+        line-height: 1.5;
+        margin: 1em auto;
+        padding: 1em;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+}
